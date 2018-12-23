@@ -1,0 +1,32 @@
+﻿body {
+}
+  .lable
+{
+	font-family: 'Trebuchet MS';
+	font-size: 10pt;
+	margin: 0px;
+	font-weight: bold;
+	color:Black;
+}
+   .txt
+{
+	font-family: Trebuchet MS;
+	font-size: 9pt;
+	font-weight: normal;
+	color:Black;
+}
+.text_field
+{
+width:200px;
+height:18px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+padding-left:2px;
+padding-top:0px;
+padding-right:2px;
+color:#000000;
+border-style:solid;
+border-width:1px;
+border-color:#CCCCCC;
+
+}

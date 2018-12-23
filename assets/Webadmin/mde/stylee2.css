@@ -1,0 +1,69 @@
+﻿.container {background:#efefef;width:40%;padding:20px;overflow:hidden;font-family:verdana;border-radius:10px;margin:20px 30%;}
+input,select {border:1px;width:200px;padding:5px; }
+
+.container1 {background:#efefef;width:40%;padding:20px;overflow:hidden;font-family:verdana;border-radius:10px;margin:20px 30%;}
+
+  h1 span { display: block; }
+.style3 {
+	color: #2a2d90;
+	font-weight: bold;
+}
+.style4 {color: #2a2d90}
+.style5 {color: deeppink}
+
+.tbl {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	border: 2px solid green;
+}
+
+.tr {
+    border: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
+
+.tr1 {
+border-bottom: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
+
+.tr2 {
+border-top: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
+
+.tr3 {
+border-left: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
+
+.tr4 {
+border-right: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
+.tbg 
+{
+	height:51;
+	background-color:#765EA5;
+    color:White;
+
+}
+.style6 {color: #000000}
+
+<!--
+.style9 {font-size: 14px; font-weight: bold; }
+
+.style28 {font-size: 14px; font-weight: bold; color:#333333; }
+.style10 {font-size: 15px}
+.style11 {font-size: 19pt}
+.style12 {color: red}
+.style13 {font-size: 16px}
+.style15 {font-size: 18px; font-weight: bold; }
+.style16 {font-size: 24px; color: yellow; }
+-->
